@@ -48,12 +48,7 @@ VKONTAKTE_TOKEN=your_vk_token
 TELEGRAM_TOKEN=your_telegram_token
 ```
 
-### 4. Создай папку data
-```sh
-mkdir -p data
-```
-
-### 5. Запусти контейнер
+### 4. Запусти контейнер
 ```sh
 docker-compose up --build
 ```
