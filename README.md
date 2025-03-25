@@ -37,7 +37,7 @@
 ### 1. Клонируй репозиторий
 
 ```sh
-git clone https://github.com/<your-username>/wtp-bot.git
+git clone https://github.com/Megapok97/WTP_SUPERBOT.git
 cd wtp-bot
 ```
 
