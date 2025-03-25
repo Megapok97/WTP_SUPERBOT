@@ -38,7 +38,7 @@
 
 ```sh
 git clone https://github.com/Megapok97/WTP_SUPERBOT.git
-cd wtp-bot
+cd WTP_SUPERBOT
 ```
 
 ### 2. Создай файл .env в корне проекта
