@@ -1,0 +1,8 @@
+Pillow~=11.1.0
+beautifulsoup4~=4.13.3
+requests~=2.32.3
+vk-api~=11.9.9
+pyTelegramBotAPI~=4.26.0
+peewee~=3.17.9
+dotenv~=0.9.9
+python-dotenv~=1.0.1

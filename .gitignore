@@ -1,0 +1,6 @@
+.venv
+.idea
+
+envs/*
+tests/temp
+data/*.sqlite

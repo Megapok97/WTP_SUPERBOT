@@ -1,0 +1,2 @@
+class SkipHandler(Exception):
+    pass
